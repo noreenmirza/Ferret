@@ -1,3 +1,4 @@
 # Ferret
 My stinky little cat Ferret
-theme: minima
+## I love Ferret
+Ferret is seriously so cute and stupid and its so cute
